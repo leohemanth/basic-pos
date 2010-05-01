@@ -1,0 +1,684 @@
+Downloading/unpacking pinax
+  Getting page http://pypi.python.org/simple/pinax
+  URLs to search for versions for pinax:
+  * http://pypi.python.org/simple/pinax/
+  Getting page http://pypi.python.org/simple/pinax/
+  Getting page http://pinaxproject.com/
+  Analyzing links from page http://pypi.python.org/simple/Pinax/
+    Skipping link http://pinaxproject.com/ (from http://pypi.python.org/simple/Pinax/); not a file
+    Skipping link http://djangoproject.com/ (from http://pypi.python.org/simple/Pinax/); not a file
+    Skipping link http://pycon.blip.tv/file/1952623/ (from http://pypi.python.org/simple/Pinax/); not a file
+    Skipping link http://thisweekindjango.com/twid/episode/24/this-week-in-django-24/ (from http://pypi.python.org/simple/Pinax/); not a file
+    Skipping link http://www.youtube.com/watch?v=1J91Ownq-7g (from http://pypi.python.org/simple/Pinax/); not a file
+  Analyzing links from page http://pinaxproject.com/
+    Skipping link http://pinaxproject.com/site_media/css/style.css (from http://pinaxproject.com/); unknown archive format: .css
+    Skipping link http://pinaxproject.com/ (from http://pinaxproject.com/); not a file
+    Skipping link http://pinaxproject.com/download/ (from http://pinaxproject.com/); not a file
+    Skipping link http://pinaxproject.com/docs/ (from http://pinaxproject.com/); not a file
+    Skipping link http://djangoproject.com/ (from http://pinaxproject.com/); not a file
+    Skipping link http://blip.tv/file/1952623 (from http://pinaxproject.com/); not a file
+    Skipping link http://www.youtube.com/watch?v=1J91Ownq-7g (from http://pinaxproject.com/); not a file
+    Skipping link mailto:jtauber@jtauber.com (from http://pinaxproject.com/); unknown archive format: .com
+    Skipping link http://github.com/pinax/pinax/ (from http://pinaxproject.com/); not a file
+    Skipping link http://code.pinaxproject.com/ (from http://pinaxproject.com/); not a file
+    Skipping link http://pinaxproject.com/../../../../docs/ (from http://pinaxproject.com/); not a file
+    Skipping link irc://irc.freenode.net/pinax (from http://pinaxproject.com/); not a file
+    Skipping link http://groups.google.com/group/pinax-users (from http://pinaxproject.com/); not a file
+    Skipping link http://cloud27.com (from http://pinaxproject.com/); not a file
+    Skipping link http://cloud27.com/ (from http://pinaxproject.com/); not a file
+    Skipping link http://drinktale.com/ (from http://pinaxproject.com/); not a file
+    Skipping link http://goodlist.co.uk/ (from http://pinaxproject.com/); not a file
+    Skipping link http://we20.org/ (from http://pinaxproject.com/); not a file
+    Skipping link http://gameocracy.org/ (from http://pinaxproject.com/); not a file
+    Skipping link http://eldarion.com/ (from http://pinaxproject.com/); not a file
+    Found link http://github.com/pinax/pinax/tarball/master#egg=Pinax-dev (from http://pinaxproject.com/), version: dev
+  Analyzing links from page http://pinaxproject.com/
+    Skipping link http://pinaxproject.com/site_media/css/style.css (from http://pinaxproject.com/); unknown archive format: .css
+    Skipping link http://pinaxproject.com/ (from http://pinaxproject.com/); not a file
+    Skipping link http://pinaxproject.com/download/ (from http://pinaxproject.com/); not a file
+    Skipping link http://pinaxproject.com/docs/ (from http://pinaxproject.com/); not a file
+    Skipping link http://djangoproject.com/ (from http://pinaxproject.com/); not a file
+    Skipping link http://blip.tv/file/1952623 (from http://pinaxproject.com/); not a file
+    Skipping link http://www.youtube.com/watch?v=1J91Ownq-7g (from http://pinaxproject.com/); not a file
+    Skipping link mailto:jtauber@jtauber.com (from http://pinaxproject.com/); unknown archive format: .com
+    Skipping link http://github.com/pinax/pinax/ (from http://pinaxproject.com/); not a file
+    Skipping link http://code.pinaxproject.com/ (from http://pinaxproject.com/); not a file
+    Skipping link http://pinaxproject.com/../../../../docs/ (from http://pinaxproject.com/); not a file
+    Skipping link irc://irc.freenode.net/pinax (from http://pinaxproject.com/); not a file
+    Skipping link http://groups.google.com/group/pinax-users (from http://pinaxproject.com/); not a file
+    Skipping link http://cloud27.com (from http://pinaxproject.com/); not a file
+    Skipping link http://cloud27.com/ (from http://pinaxproject.com/); not a file
+    Skipping link http://drinktale.com/ (from http://pinaxproject.com/); not a file
+    Skipping link http://goodlist.co.uk/ (from http://pinaxproject.com/); not a file
+    Skipping link http://we20.org/ (from http://pinaxproject.com/); not a file
+    Skipping link http://gameocracy.org/ (from http://pinaxproject.com/); not a file
+    Skipping link http://eldarion.com/ (from http://pinaxproject.com/); not a file
+    Found link http://github.com/pinax/pinax/tarball/master#egg=Pinax-dev (from http://pinaxproject.com/), version: dev
+  Analyzing links from page http://pinaxproject.com/
+    Skipping link http://pinaxproject.com/site_media/css/style.css (from http://pinaxproject.com/); unknown archive format: .css
+    Skipping link http://pinaxproject.com/ (from http://pinaxproject.com/); not a file
+    Skipping link http://pinaxproject.com/download/ (from http://pinaxproject.com/); not a file
+    Skipping link http://pinaxproject.com/docs/ (from http://pinaxproject.com/); not a file
+    Skipping link http://djangoproject.com/ (from http://pinaxproject.com/); not a file
+    Skipping link http://blip.tv/file/1952623 (from http://pinaxproject.com/); not a file
+    Skipping link http://www.youtube.com/watch?v=1J91Ownq-7g (from http://pinaxproject.com/); not a file
+    Skipping link mailto:jtauber@jtauber.com (from http://pinaxproject.com/); unknown archive format: .com
+    Skipping link http://github.com/pinax/pinax/ (from http://pinaxproject.com/); not a file
+    Skipping link http://code.pinaxproject.com/ (from http://pinaxproject.com/); not a file
+    Skipping link http://pinaxproject.com/../../../../docs/ (from http://pinaxproject.com/); not a file
+    Skipping link irc://irc.freenode.net/pinax (from http://pinaxproject.com/); not a file
+    Skipping link http://groups.google.com/group/pinax-users (from http://pinaxproject.com/); not a file
+    Skipping link http://cloud27.com (from http://pinaxproject.com/); not a file
+    Skipping link http://cloud27.com/ (from http://pinaxproject.com/); not a file
+    Skipping link http://drinktale.com/ (from http://pinaxproject.com/); not a file
+    Skipping link http://goodlist.co.uk/ (from http://pinaxproject.com/); not a file
+    Skipping link http://we20.org/ (from http://pinaxproject.com/); not a file
+    Skipping link http://gameocracy.org/ (from http://pinaxproject.com/); not a file
+    Skipping link http://eldarion.com/ (from http://pinaxproject.com/); not a file
+    Found link http://github.com/pinax/pinax/tarball/master#egg=Pinax-dev (from http://pinaxproject.com/), version: dev
+  Using version dev (newest of versions: dev, dev, dev)
+  Downloading from URL http://github.com/pinax/pinax/tarball/master#egg=Pinax-dev (from http://pinaxproject.com/)
+  Cannot determine compression type for file c:\docume~1\wind\locals~1\temp\tmplccpco\master
+  Running setup.py egg_info for package pinax
+    c:\pinax\lib\site-packages\setuptools-0.6c9-py2.6.egg\setuptools\command\sdist.py:4: UserWarning: Module pkg_resources was already imported from c:\pinax\lib\site-packages\setuptools-0.6c9-py2.6.egg\pkg_resources.py, but c:\python26\lib\site-packages is being added to sys.path
+    c:\pinax\lib\site-packages\setuptools-0.6c9-py2.6.egg\setuptools\command\sdist.py:4: UserWarning: Module setuptools was already imported from c:\pinax\lib\site-packages\setuptools-0.6c9-py2.6.egg\setuptools\__init__.py, but c:\python26\lib\site-packages is being added to sys.path
+    c:\pinax\lib\site-packages\setuptools-0.6c9-py2.6.egg\setuptools\command\sdist.py:4: UserWarning: Module site was already imported from c:\pinax\lib\site.pyc, but c:\python26\lib\site-packages is being added to sys.path
+    Traceback (most recent call last):
+      File "<string>", line 13, in <module>
+      File "c:\pinax\build\pinax\setup.py", line 124, in <module>
+        'Programming Language :: JavaScript',
+      File "C:\Python26\Lib\distutils\core.py", line 113, in setup
+        _setup_distribution = dist = klass(attrs)
+      File "c:\pinax\lib\site-packages\setuptools-0.6c9-py2.6.egg\setuptools\dist.py", line 223, in __init__
+      File "C:\Python26\Lib\distutils\dist.py", line 270, in __init__
+        self.finalize_options()
+      File "c:\pinax\lib\site-packages\setuptools-0.6c9-py2.6.egg\setuptools\dist.py", line 256, in finalize_options
+      File "c:\pinax\lib\site-packages\setuptools-0.6c9-py2.6.egg\pkg_resources.py", line 1918, in load
+        parts = []
+    ImportError: <module 'setuptools.dist' from 'c:\pinax\lib\site-packages\setuptools-0.6c9-py2.6.egg\setuptools\dist.py'> has no 'check_packages' attribute
+    Complete output from command python setup.py egg_info:
+    c:\pinax\lib\site-packages\setuptools-0.6c9-py2.6.egg\setuptools\command\sdist.py:4: UserWarning: Module pkg_resources was already imported from c:\pinax\lib\site-packages\setuptools-0.6c9-py2.6.egg\pkg_resources.py, but c:\python26\lib\site-packages is being added to sys.path
+
+c:\pinax\lib\site-packages\setuptools-0.6c9-py2.6.egg\setuptools\command\sdist.py:4: UserWarning: Module setuptools was already imported from c:\pinax\lib\site-packages\setuptools-0.6c9-py2.6.egg\setuptools\__init__.py, but c:\python26\lib\site-packages is being added to sys.path
+
+c:\pinax\lib\site-packages\setuptools-0.6c9-py2.6.egg\setuptools\command\sdist.py:4: UserWarning: Module site was already imported from c:\pinax\lib\site.pyc, but c:\python26\lib\site-packages is being added to sys.path
+
+Traceback (most recent call last):
+
+  File "<string>", line 13, in <module>
+
+  File "c:\pinax\build\pinax\setup.py", line 124, in <module>
+
+    'Programming Language :: JavaScript',
+
+  File "C:\Python26\Lib\distutils\core.py", line 113, in setup
+
+    _setup_distribution = dist = klass(attrs)
+
+  File "c:\pinax\lib\site-packages\setuptools-0.6c9-py2.6.egg\setuptools\dist.py", line 223, in __init__
+
+  File "C:\Python26\Lib\distutils\dist.py", line 270, in __init__
+
+    self.finalize_options()
+
+  File "c:\pinax\lib\site-packages\setuptools-0.6c9-py2.6.egg\setuptools\dist.py", line 256, in finalize_options
+
+  File "c:\pinax\lib\site-packages\setuptools-0.6c9-py2.6.egg\pkg_resources.py", line 1918, in load
+
+    parts = []
+
+ImportError: <module 'setuptools.dist' from 'c:\pinax\lib\site-packages\setuptools-0.6c9-py2.6.egg\setuptools\dist.py'> has no 'check_packages' attribute
+
+----------------------------------------
+Command python setup.py egg_info failed with error code 1
+Exception information:
+Traceback (most recent call last):
+  File "c:\pinax\lib\site-packages\pip-0.4.1devdev-py2.6.egg\pip.py", line 288, in main
+    self.run(options, args)
+  File "c:\pinax\lib\site-packages\pip-0.4.1devdev-py2.6.egg\pip.py", line 463, in run
+    force_root_egg_info=self.bundle, only_download=self.download)
+  File "c:\pinax\lib\site-packages\pip-0.4.1devdev-py2.6.egg\pip.py", line 1974, in install_files
+    req_to_install.run_egg_info()
+  File "c:\pinax\lib\site-packages\pip-0.4.1devdev-py2.6.egg\pip.py", line 1496, in run_egg_info
+    command_desc='python setup.py egg_info')
+  File "c:\pinax\lib\site-packages\pip-0.4.1devdev-py2.6.egg\pip.py", line 3852, in call_subprocess
+    % (command_desc, proc.returncode))
+InstallationError: Command python setup.py egg_info failed with error code 1
+------------------------------------------------------------
+c:\pinax\Scripts\pip-script.py run on 05/01/10 00:23:47
+Downloading/unpacking pip
+  Getting page http://pypi.python.org/simple/pip
+  URLs to search for versions for pip:
+  * http://pypi.python.org/simple/pip/
+  Getting page http://pip.openplans.org
+  Analyzing links from page http://pypi.python.org/simple/pip/
+    Found link http://pypi.python.org/packages/source/p/pip/pip-0.3.tar.gz#md5=8fccb5b49c6377cbfb1949ccd7be43b3 (from http://pypi.python.org/simple/pip/), version: 0.3
+    Found link http://pypi.python.org/packages/source/p/pip/pip-0.6.2.tar.gz#md5=9a43e0a2ce8833069f41c347932bdb25 (from http://pypi.python.org/simple/pip/), version: 0.6.2
+    Found link http://pypi.python.org/packages/source/p/pip/pip-0.7.1.tar.gz#md5=420c83ad67bdcb542f772eb64392cce6 (from http://pypi.python.org/simple/pip/), version: 0.7.1
+    Found link http://pypi.python.org/packages/source/p/pip/pip-0.7.tar.gz#md5=8d4b4f7266fe0808569182e6832d74ac (from http://pypi.python.org/simple/pip/), version: 0.7
+    Found link http://pypi.python.org/packages/source/p/pip/pip-0.2.tar.gz#md5=9eda07c8be7105aa774c7eb51c023294 (from http://pypi.python.org/simple/pip/), version: 0.2
+    Found link http://pypi.python.org/packages/source/p/pip/pip-0.6.tar.gz#md5=083ff408ca5314cf0561ff79a048cd9a (from http://pypi.python.org/simple/pip/), version: 0.6
+    Found link http://pypi.python.org/packages/source/p/pip/pip-0.3.1.tar.gz#md5=78102ddbb040a183dd361b5d432cdf88 (from http://pypi.python.org/simple/pip/), version: 0.3.1
+    Found link http://pypi.python.org/packages/source/p/pip/pip-0.6.3.tar.gz#md5=0602fa9179cfaa98e41565d4a581d98c (from http://pypi.python.org/simple/pip/), version: 0.6.3
+    Found link http://pypi.python.org/packages/source/p/pip/pip-0.5.tar.gz#md5=63eed8673e40628534cc0aa9c98e8f3d (from http://pypi.python.org/simple/pip/), version: 0.5
+    Found link http://pypi.python.org/packages/source/p/pip/pip-0.2.1.tar.gz#md5=d2af655c1a87e03799442d045c1d6743 (from http://pypi.python.org/simple/pip/), version: 0.2.1
+    Found link http://pypi.python.org/packages/source/p/pip/pip-0.5.1.tar.gz#md5=d4bdaa5f5f5bf8c6263ace75a0882232 (from http://pypi.python.org/simple/pip/), version: 0.5.1
+    Found link http://pypi.python.org/packages/source/p/pip/pip-0.6.1.tar.gz#md5=7560e3055c66afb99ac4a7892389a237 (from http://pypi.python.org/simple/pip/), version: 0.6.1
+    Found link http://pypi.python.org/packages/source/p/pip/pip-0.4.tar.gz#md5=b45714d04f8fd38fe8e3d4c7600b91a2 (from http://pypi.python.org/simple/pip/), version: 0.4
+    Skipping link http://pip.openplans.org (from http://pypi.python.org/simple/pip/); not a file
+    Skipping link http://bitbucket.org/ianb/pip/issues/ (from http://pypi.python.org/simple/pip/); not a file
+    Skipping link http://groups.google.com/group/python-virtualenv?hl=en (from http://pypi.python.org/simple/pip/); not a file
+    Skipping link http://oss.openplans.org/pip/ (from http://pypi.python.org/simple/pip/); not a file
+    Skipping link http://peak.telecommunity.com/DevCenter/EasyInstall (from http://pypi.python.org/simple/pip/); not a file
+    Skipping link http://trac.openplans.org/poacheggs/ (from http://pypi.python.org/simple/pip/); not a file
+    Skipping link http://www.doughellmann.com/projects/virtualenvwrapper/ (from http://pypi.python.org/simple/pip/); not a file
+    Found link http://bitbucket.org/ianb/pip/get/tip.gz#egg=pip-dev (from http://pypi.python.org/simple/pip/), version: dev
+  Analyzing links from page http://pip.openplans.org
+    Skipping link http://pip.openplans.org/_static/nature.css (from http://pip.openplans.org); unknown archive format: .css
+    Skipping link http://pip.openplans.org/_static/pygments.css (from http://pip.openplans.org); unknown archive format: .css
+    Skipping link http://pip.openplans.org (from http://pip.openplans.org); not a file
+    Skipping link http://pip.openplans.org/news.html (from http://pip.openplans.org); unknown archive format: .html
+    Skipping link http://pip.openplans.org#pip (from http://pip.openplans.org); not a file
+    Skipping link http://pypi.python.org/pypi/pip (from http://pip.openplans.org); not a file
+    Skipping link http://bitbucket.org/ianb/pip/ (from http://pip.openplans.org); not a file
+    Skipping link http://pip.openplans.org/requirement-format.html (from http://pip.openplans.org); unknown archive format: .html
+    Skipping link http://pip.openplans.org/configuration.html (from http://pip.openplans.org); unknown archive format: .html
+    Skipping link http://pip.openplans.org/license.html (from http://pip.openplans.org); unknown archive format: .html
+    Skipping link http://pip.openplans.org#introduction (from http://pip.openplans.org); not a file
+    Skipping link http://peak.telecommunity.com/DevCenter/EasyInstall (from http://pip.openplans.org); not a file
+    Skipping link http://pypi.python.org/pypi/virtualenv (from http://pip.openplans.org); not a file
+    Skipping link http://pip.openplans.org#community (from http://pip.openplans.org); not a file
+    Skipping link http://bitbucket.org/ianb/pip/issues/ (from http://pip.openplans.org); not a file
+    Skipping link http://groups.google.com/group/python-virtualenv?hl=en (from http://pip.openplans.org); not a file
+    Skipping link http://pip.openplans.org#differences-from-easy-install (from http://pip.openplans.org); not a file
+    Skipping link http://pip.openplans.org#uninstall (from http://pip.openplans.org); not a file
+    Skipping link http://pip.openplans.org#requirements-files (from http://pip.openplans.org); not a file
+    Skipping link http://pip.openplans.org#freezing-requirements (from http://pip.openplans.org); not a file
+    Skipping link http://pip.openplans.org#bundles (from http://pip.openplans.org); not a file
+    Skipping link http://pip.openplans.org#requirements-file (from http://pip.openplans.org); not a file
+    Skipping link http://pip.openplans.org#using-pip-with-virtualenv (from http://pip.openplans.org); not a file
+    Skipping link http://pip.openplans.org#using-pip-with-virtualenvwrapper (from http://pip.openplans.org); not a file
+    Skipping link http://www.doughellmann.com/projects/virtualenvwrapper/ (from http://pip.openplans.org); not a file
+    Skipping link http://pip.openplans.org#using-pip-with-buildout (from http://pip.openplans.org); not a file
+    Skipping link http://pypi.python.org/pypi/zc.buildout (from http://pip.openplans.org); unknown archive format: .buildout
+    Skipping link http://pypi.python.org/pypi/gp.recipe.pip (from http://pip.openplans.org); unknown archive format: .pip
+    Skipping link http://pip.openplans.org#command-line-completion (from http://pip.openplans.org); not a file
+    Skipping link http://pip.openplans.org#searching-for-packages (from http://pip.openplans.org); not a file
+    Skipping link http://pypi.python.org/pypi (from http://pip.openplans.org); not a file
+    Skipping link http://sphinx.pocoo.org/ (from http://pip.openplans.org); not a file
+  Analyzing links from page http://pip.openplans.org
+    Skipping link http://pip.openplans.org/_static/nature.css (from http://pip.openplans.org); unknown archive format: .css
+    Skipping link http://pip.openplans.org/_static/pygments.css (from http://pip.openplans.org); unknown archive format: .css
+    Skipping link http://pip.openplans.org (from http://pip.openplans.org); not a file
+    Skipping link http://pip.openplans.org/news.html (from http://pip.openplans.org); unknown archive format: .html
+    Skipping link http://pip.openplans.org#pip (from http://pip.openplans.org); not a file
+    Skipping link http://pypi.python.org/pypi/pip (from http://pip.openplans.org); not a file
+    Skipping link http://bitbucket.org/ianb/pip/ (from http://pip.openplans.org); not a file
+    Skipping link http://pip.openplans.org/requirement-format.html (from http://pip.openplans.org); unknown archive format: .html
+    Skipping link http://pip.openplans.org/configuration.html (from http://pip.openplans.org); unknown archive format: .html
+    Skipping link http://pip.openplans.org/license.html (from http://pip.openplans.org); unknown archive format: .html
+    Skipping link http://pip.openplans.org#introduction (from http://pip.openplans.org); not a file
+    Skipping link http://peak.telecommunity.com/DevCenter/EasyInstall (from http://pip.openplans.org); not a file
+    Skipping link http://pypi.python.org/pypi/virtualenv (from http://pip.openplans.org); not a file
+    Skipping link http://pip.openplans.org#community (from http://pip.openplans.org); not a file
+    Skipping link http://bitbucket.org/ianb/pip/issues/ (from http://pip.openplans.org); not a file
+    Skipping link http://groups.google.com/group/python-virtualenv?hl=en (from http://pip.openplans.org); not a file
+    Skipping link http://pip.openplans.org#differences-from-easy-install (from http://pip.openplans.org); not a file
+    Skipping link http://pip.openplans.org#uninstall (from http://pip.openplans.org); not a file
+    Skipping link http://pip.openplans.org#requirements-files (from http://pip.openplans.org); not a file
+    Skipping link http://pip.openplans.org#freezing-requirements (from http://pip.openplans.org); not a file
+    Skipping link http://pip.openplans.org#bundles (from http://pip.openplans.org); not a file
+    Skipping link http://pip.openplans.org#requirements-file (from http://pip.openplans.org); not a file
+    Skipping link http://pip.openplans.org#using-pip-with-virtualenv (from http://pip.openplans.org); not a file
+    Skipping link http://pip.openplans.org#using-pip-with-virtualenvwrapper (from http://pip.openplans.org); not a file
+    Skipping link http://www.doughellmann.com/projects/virtualenvwrapper/ (from http://pip.openplans.org); not a file
+    Skipping link http://pip.openplans.org#using-pip-with-buildout (from http://pip.openplans.org); not a file
+    Skipping link http://pypi.python.org/pypi/zc.buildout (from http://pip.openplans.org); unknown archive format: .buildout
+    Skipping link http://pypi.python.org/pypi/gp.recipe.pip (from http://pip.openplans.org); unknown archive format: .pip
+    Skipping link http://pip.openplans.org#command-line-completion (from http://pip.openplans.org); not a file
+    Skipping link http://pip.openplans.org#searching-for-packages (from http://pip.openplans.org); not a file
+    Skipping link http://pypi.python.org/pypi (from http://pip.openplans.org); not a file
+    Skipping link http://sphinx.pocoo.org/ (from http://pip.openplans.org); not a file
+  Analyzing links from page http://pip.openplans.org
+    Skipping link http://pip.openplans.org/_static/nature.css (from http://pip.openplans.org); unknown archive format: .css
+    Skipping link http://pip.openplans.org/_static/pygments.css (from http://pip.openplans.org); unknown archive format: .css
+    Skipping link http://pip.openplans.org (from http://pip.openplans.org); not a file
+    Skipping link http://pip.openplans.org/news.html (from http://pip.openplans.org); unknown archive format: .html
+    Skipping link http://pip.openplans.org#pip (from http://pip.openplans.org); not a file
+    Skipping link http://pypi.python.org/pypi/pip (from http://pip.openplans.org); not a file
+    Skipping link http://bitbucket.org/ianb/pip/ (from http://pip.openplans.org); not a file
+    Skipping link http://pip.openplans.org/requirement-format.html (from http://pip.openplans.org); unknown archive format: .html
+    Skipping link http://pip.openplans.org/configuration.html (from http://pip.openplans.org); unknown archive format: .html
+    Skipping link http://pip.openplans.org/license.html (from http://pip.openplans.org); unknown archive format: .html
+    Skipping link http://pip.openplans.org#introduction (from http://pip.openplans.org); not a file
+    Skipping link http://peak.telecommunity.com/DevCenter/EasyInstall (from http://pip.openplans.org); not a file
+    Skipping link http://pypi.python.org/pypi/virtualenv (from http://pip.openplans.org); not a file
+    Skipping link http://pip.openplans.org#community (from http://pip.openplans.org); not a file
+    Skipping link http://bitbucket.org/ianb/pip/issues/ (from http://pip.openplans.org); not a file
+    Skipping link http://groups.google.com/group/python-virtualenv?hl=en (from http://pip.openplans.org); not a file
+    Skipping link http://pip.openplans.org#differences-from-easy-install (from http://pip.openplans.org); not a file
+    Skipping link http://pip.openplans.org#uninstall (from http://pip.openplans.org); not a file
+    Skipping link http://pip.openplans.org#requirements-files (from http://pip.openplans.org); not a file
+    Skipping link http://pip.openplans.org#freezing-requirements (from http://pip.openplans.org); not a file
+    Skipping link http://pip.openplans.org#bundles (from http://pip.openplans.org); not a file
+    Skipping link http://pip.openplans.org#requirements-file (from http://pip.openplans.org); not a file
+    Skipping link http://pip.openplans.org#using-pip-with-virtualenv (from http://pip.openplans.org); not a file
+    Skipping link http://pip.openplans.org#using-pip-with-virtualenvwrapper (from http://pip.openplans.org); not a file
+    Skipping link http://www.doughellmann.com/projects/virtualenvwrapper/ (from http://pip.openplans.org); not a file
+    Skipping link http://pip.openplans.org#using-pip-with-buildout (from http://pip.openplans.org); not a file
+    Skipping link http://pypi.python.org/pypi/zc.buildout (from http://pip.openplans.org); unknown archive format: .buildout
+    Skipping link http://pypi.python.org/pypi/gp.recipe.pip (from http://pip.openplans.org); unknown archive format: .pip
+    Skipping link http://pip.openplans.org#command-line-completion (from http://pip.openplans.org); not a file
+    Skipping link http://pip.openplans.org#searching-for-packages (from http://pip.openplans.org); not a file
+    Skipping link http://pypi.python.org/pypi (from http://pip.openplans.org); not a file
+    Skipping link http://sphinx.pocoo.org/ (from http://pip.openplans.org); not a file
+  Analyzing links from page http://pip.openplans.org
+    Skipping link http://pip.openplans.org/_static/nature.css (from http://pip.openplans.org); unknown archive format: .css
+    Skipping link http://pip.openplans.org/_static/pygments.css (from http://pip.openplans.org); unknown archive format: .css
+    Skipping link http://pip.openplans.org (from http://pip.openplans.org); not a file
+    Skipping link http://pip.openplans.org/news.html (from http://pip.openplans.org); unknown archive format: .html
+    Skipping link http://pip.openplans.org#pip (from http://pip.openplans.org); not a file
+    Skipping link http://pypi.python.org/pypi/pip (from http://pip.openplans.org); not a file
+    Skipping link http://bitbucket.org/ianb/pip/ (from http://pip.openplans.org); not a file
+    Skipping link http://pip.openplans.org/requirement-format.html (from http://pip.openplans.org); unknown archive format: .html
+    Skipping link http://pip.openplans.org/configuration.html (from http://pip.openplans.org); unknown archive format: .html
+    Skipping link http://pip.openplans.org/license.html (from http://pip.openplans.org); unknown archive format: .html
+    Skipping link http://pip.openplans.org#introduction (from http://pip.openplans.org); not a file
+    Skipping link http://peak.telecommunity.com/DevCenter/EasyInstall (from http://pip.openplans.org); not a file
+    Skipping link http://pypi.python.org/pypi/virtualenv (from http://pip.openplans.org); not a file
+    Skipping link http://pip.openplans.org#community (from http://pip.openplans.org); not a file
+    Skipping link http://bitbucket.org/ianb/pip/issues/ (from http://pip.openplans.org); not a file
+    Skipping link http://groups.google.com/group/python-virtualenv?hl=en (from http://pip.openplans.org); not a file
+    Skipping link http://pip.openplans.org#differences-from-easy-install (from http://pip.openplans.org); not a file
+    Skipping link http://pip.openplans.org#uninstall (from http://pip.openplans.org); not a file
+    Skipping link http://pip.openplans.org#requirements-files (from http://pip.openplans.org); not a file
+    Skipping link http://pip.openplans.org#freezing-requirements (from http://pip.openplans.org); not a file
+    Skipping link http://pip.openplans.org#bundles (from http://pip.openplans.org); not a file
+    Skipping link http://pip.openplans.org#requirements-file (from http://pip.openplans.org); not a file
+    Skipping link http://pip.openplans.org#using-pip-with-virtualenv (from http://pip.openplans.org); not a file
+    Skipping link http://pip.openplans.org#using-pip-with-virtualenvwrapper (from http://pip.openplans.org); not a file
+    Skipping link http://www.doughellmann.com/projects/virtualenvwrapper/ (from http://pip.openplans.org); not a file
+    Skipping link http://pip.openplans.org#using-pip-with-buildout (from http://pip.openplans.org); not a file
+    Skipping link http://pypi.python.org/pypi/zc.buildout (from http://pip.openplans.org); unknown archive format: .buildout
+    Skipping link http://pypi.python.org/pypi/gp.recipe.pip (from http://pip.openplans.org); unknown archive format: .pip
+    Skipping link http://pip.openplans.org#command-line-completion (from http://pip.openplans.org); not a file
+    Skipping link http://pip.openplans.org#searching-for-packages (from http://pip.openplans.org); not a file
+    Skipping link http://pypi.python.org/pypi (from http://pip.openplans.org); not a file
+    Skipping link http://sphinx.pocoo.org/ (from http://pip.openplans.org); not a file
+  Analyzing links from page http://pip.openplans.org
+    Skipping link http://pip.openplans.org/_static/nature.css (from http://pip.openplans.org); unknown archive format: .css
+    Skipping link http://pip.openplans.org/_static/pygments.css (from http://pip.openplans.org); unknown archive format: .css
+    Skipping link http://pip.openplans.org (from http://pip.openplans.org); not a file
+    Skipping link http://pip.openplans.org/news.html (from http://pip.openplans.org); unknown archive format: .html
+    Skipping link http://pip.openplans.org#pip (from http://pip.openplans.org); not a file
+    Skipping link http://pypi.python.org/pypi/pip (from http://pip.openplans.org); not a file
+    Skipping link http://bitbucket.org/ianb/pip/ (from http://pip.openplans.org); not a file
+    Skipping link http://pip.openplans.org/requirement-format.html (from http://pip.openplans.org); unknown archive format: .html
+    Skipping link http://pip.openplans.org/configuration.html (from http://pip.openplans.org); unknown archive format: .html
+    Skipping link http://pip.openplans.org/license.html (from http://pip.openplans.org); unknown archive format: .html
+    Skipping link http://pip.openplans.org#introduction (from http://pip.openplans.org); not a file
+    Skipping link http://peak.telecommunity.com/DevCenter/EasyInstall (from http://pip.openplans.org); not a file
+    Skipping link http://pypi.python.org/pypi/virtualenv (from http://pip.openplans.org); not a file
+    Skipping link http://pip.openplans.org#community (from http://pip.openplans.org); not a file
+    Skipping link http://bitbucket.org/ianb/pip/issues/ (from http://pip.openplans.org); not a file
+    Skipping link http://groups.google.com/group/python-virtualenv?hl=en (from http://pip.openplans.org); not a file
+    Skipping link http://pip.openplans.org#differences-from-easy-install (from http://pip.openplans.org); not a file
+    Skipping link http://pip.openplans.org#uninstall (from http://pip.openplans.org); not a file
+    Skipping link http://pip.openplans.org#requirements-files (from http://pip.openplans.org); not a file
+    Skipping link http://pip.openplans.org#freezing-requirements (from http://pip.openplans.org); not a file
+    Skipping link http://pip.openplans.org#bundles (from http://pip.openplans.org); not a file
+    Skipping link http://pip.openplans.org#requirements-file (from http://pip.openplans.org); not a file
+    Skipping link http://pip.openplans.org#using-pip-with-virtualenv (from http://pip.openplans.org); not a file
+    Skipping link http://pip.openplans.org#using-pip-with-virtualenvwrapper (from http://pip.openplans.org); not a file
+    Skipping link http://www.doughellmann.com/projects/virtualenvwrapper/ (from http://pip.openplans.org); not a file
+    Skipping link http://pip.openplans.org#using-pip-with-buildout (from http://pip.openplans.org); not a file
+    Skipping link http://pypi.python.org/pypi/zc.buildout (from http://pip.openplans.org); unknown archive format: .buildout
+    Skipping link http://pypi.python.org/pypi/gp.recipe.pip (from http://pip.openplans.org); unknown archive format: .pip
+    Skipping link http://pip.openplans.org#command-line-completion (from http://pip.openplans.org); not a file
+    Skipping link http://pip.openplans.org#searching-for-packages (from http://pip.openplans.org); not a file
+    Skipping link http://pypi.python.org/pypi (from http://pip.openplans.org); not a file
+    Skipping link http://sphinx.pocoo.org/ (from http://pip.openplans.org); not a file
+  Analyzing links from page http://pip.openplans.org
+    Skipping link http://pip.openplans.org/_static/nature.css (from http://pip.openplans.org); unknown archive format: .css
+    Skipping link http://pip.openplans.org/_static/pygments.css (from http://pip.openplans.org); unknown archive format: .css
+    Skipping link http://pip.openplans.org (from http://pip.openplans.org); not a file
+    Skipping link http://pip.openplans.org/news.html (from http://pip.openplans.org); unknown archive format: .html
+    Skipping link http://pip.openplans.org#pip (from http://pip.openplans.org); not a file
+    Skipping link http://pypi.python.org/pypi/pip (from http://pip.openplans.org); not a file
+    Skipping link http://bitbucket.org/ianb/pip/ (from http://pip.openplans.org); not a file
+    Skipping link http://pip.openplans.org/requirement-format.html (from http://pip.openplans.org); unknown archive format: .html
+    Skipping link http://pip.openplans.org/configuration.html (from http://pip.openplans.org); unknown archive format: .html
+    Skipping link http://pip.openplans.org/license.html (from http://pip.openplans.org); unknown archive format: .html
+    Skipping link http://pip.openplans.org#introduction (from http://pip.openplans.org); not a file
+    Skipping link http://peak.telecommunity.com/DevCenter/EasyInstall (from http://pip.openplans.org); not a file
+    Skipping link http://pypi.python.org/pypi/virtualenv (from http://pip.openplans.org); not a file
+    Skipping link http://pip.openplans.org#community (from http://pip.openplans.org); not a file
+    Skipping link http://bitbucket.org/ianb/pip/issues/ (from http://pip.openplans.org); not a file
+    Skipping link http://groups.google.com/group/python-virtualenv?hl=en (from http://pip.openplans.org); not a file
+    Skipping link http://pip.openplans.org#differences-from-easy-install (from http://pip.openplans.org); not a file
+    Skipping link http://pip.openplans.org#uninstall (from http://pip.openplans.org); not a file
+    Skipping link http://pip.openplans.org#requirements-files (from http://pip.openplans.org); not a file
+    Skipping link http://pip.openplans.org#freezing-requirements (from http://pip.openplans.org); not a file
+    Skipping link http://pip.openplans.org#bundles (from http://pip.openplans.org); not a file
+    Skipping link http://pip.openplans.org#requirements-file (from http://pip.openplans.org); not a file
+    Skipping link http://pip.openplans.org#using-pip-with-virtualenv (from http://pip.openplans.org); not a file
+    Skipping link http://pip.openplans.org#using-pip-with-virtualenvwrapper (from http://pip.openplans.org); not a file
+    Skipping link http://www.doughellmann.com/projects/virtualenvwrapper/ (from http://pip.openplans.org); not a file
+    Skipping link http://pip.openplans.org#using-pip-with-buildout (from http://pip.openplans.org); not a file
+    Skipping link http://pypi.python.org/pypi/zc.buildout (from http://pip.openplans.org); unknown archive format: .buildout
+    Skipping link http://pypi.python.org/pypi/gp.recipe.pip (from http://pip.openplans.org); unknown archive format: .pip
+    Skipping link http://pip.openplans.org#command-line-completion (from http://pip.openplans.org); not a file
+    Skipping link http://pip.openplans.org#searching-for-packages (from http://pip.openplans.org); not a file
+    Skipping link http://pypi.python.org/pypi (from http://pip.openplans.org); not a file
+    Skipping link http://sphinx.pocoo.org/ (from http://pip.openplans.org); not a file
+  Analyzing links from page http://pip.openplans.org
+    Skipping link http://pip.openplans.org/_static/nature.css (from http://pip.openplans.org); unknown archive format: .css
+    Skipping link http://pip.openplans.org/_static/pygments.css (from http://pip.openplans.org); unknown archive format: .css
+    Skipping link http://pip.openplans.org (from http://pip.openplans.org); not a file
+    Skipping link http://pip.openplans.org/news.html (from http://pip.openplans.org); unknown archive format: .html
+    Skipping link http://pip.openplans.org#pip (from http://pip.openplans.org); not a file
+    Skipping link http://pypi.python.org/pypi/pip (from http://pip.openplans.org); not a file
+    Skipping link http://bitbucket.org/ianb/pip/ (from http://pip.openplans.org); not a file
+    Skipping link http://pip.openplans.org/requirement-format.html (from http://pip.openplans.org); unknown archive format: .html
+    Skipping link http://pip.openplans.org/configuration.html (from http://pip.openplans.org); unknown archive format: .html
+    Skipping link http://pip.openplans.org/license.html (from http://pip.openplans.org); unknown archive format: .html
+    Skipping link http://pip.openplans.org#introduction (from http://pip.openplans.org); not a file
+    Skipping link http://peak.telecommunity.com/DevCenter/EasyInstall (from http://pip.openplans.org); not a file
+    Skipping link http://pypi.python.org/pypi/virtualenv (from http://pip.openplans.org); not a file
+    Skipping link http://pip.openplans.org#community (from http://pip.openplans.org); not a file
+    Skipping link http://bitbucket.org/ianb/pip/issues/ (from http://pip.openplans.org); not a file
+    Skipping link http://groups.google.com/group/python-virtualenv?hl=en (from http://pip.openplans.org); not a file
+    Skipping link http://pip.openplans.org#differences-from-easy-install (from http://pip.openplans.org); not a file
+    Skipping link http://pip.openplans.org#uninstall (from http://pip.openplans.org); not a file
+    Skipping link http://pip.openplans.org#requirements-files (from http://pip.openplans.org); not a file
+    Skipping link http://pip.openplans.org#freezing-requirements (from http://pip.openplans.org); not a file
+    Skipping link http://pip.openplans.org#bundles (from http://pip.openplans.org); not a file
+    Skipping link http://pip.openplans.org#requirements-file (from http://pip.openplans.org); not a file
+    Skipping link http://pip.openplans.org#using-pip-with-virtualenv (from http://pip.openplans.org); not a file
+    Skipping link http://pip.openplans.org#using-pip-with-virtualenvwrapper (from http://pip.openplans.org); not a file
+    Skipping link http://www.doughellmann.com/projects/virtualenvwrapper/ (from http://pip.openplans.org); not a file
+    Skipping link http://pip.openplans.org#using-pip-with-buildout (from http://pip.openplans.org); not a file
+    Skipping link http://pypi.python.org/pypi/zc.buildout (from http://pip.openplans.org); unknown archive format: .buildout
+    Skipping link http://pypi.python.org/pypi/gp.recipe.pip (from http://pip.openplans.org); unknown archive format: .pip
+    Skipping link http://pip.openplans.org#command-line-completion (from http://pip.openplans.org); not a file
+    Skipping link http://pip.openplans.org#searching-for-packages (from http://pip.openplans.org); not a file
+    Skipping link http://pypi.python.org/pypi (from http://pip.openplans.org); not a file
+    Skipping link http://sphinx.pocoo.org/ (from http://pip.openplans.org); not a file
+  Analyzing links from page http://pip.openplans.org
+    Skipping link http://pip.openplans.org/_static/nature.css (from http://pip.openplans.org); unknown archive format: .css
+    Skipping link http://pip.openplans.org/_static/pygments.css (from http://pip.openplans.org); unknown archive format: .css
+    Skipping link http://pip.openplans.org (from http://pip.openplans.org); not a file
+    Skipping link http://pip.openplans.org/news.html (from http://pip.openplans.org); unknown archive format: .html
+    Skipping link http://pip.openplans.org#pip (from http://pip.openplans.org); not a file
+    Skipping link http://pypi.python.org/pypi/pip (from http://pip.openplans.org); not a file
+    Skipping link http://bitbucket.org/ianb/pip/ (from http://pip.openplans.org); not a file
+    Skipping link http://pip.openplans.org/requirement-format.html (from http://pip.openplans.org); unknown archive format: .html
+    Skipping link http://pip.openplans.org/configuration.html (from http://pip.openplans.org); unknown archive format: .html
+    Skipping link http://pip.openplans.org/license.html (from http://pip.openplans.org); unknown archive format: .html
+    Skipping link http://pip.openplans.org#introduction (from http://pip.openplans.org); not a file
+    Skipping link http://peak.telecommunity.com/DevCenter/EasyInstall (from http://pip.openplans.org); not a file
+    Skipping link http://pypi.python.org/pypi/virtualenv (from http://pip.openplans.org); not a file
+    Skipping link http://pip.openplans.org#community (from http://pip.openplans.org); not a file
+    Skipping link http://bitbucket.org/ianb/pip/issues/ (from http://pip.openplans.org); not a file
+    Skipping link http://groups.google.com/group/python-virtualenv?hl=en (from http://pip.openplans.org); not a file
+    Skipping link http://pip.openplans.org#differences-from-easy-install (from http://pip.openplans.org); not a file
+    Skipping link http://pip.openplans.org#uninstall (from http://pip.openplans.org); not a file
+    Skipping link http://pip.openplans.org#requirements-files (from http://pip.openplans.org); not a file
+    Skipping link http://pip.openplans.org#freezing-requirements (from http://pip.openplans.org); not a file
+    Skipping link http://pip.openplans.org#bundles (from http://pip.openplans.org); not a file
+    Skipping link http://pip.openplans.org#requirements-file (from http://pip.openplans.org); not a file
+    Skipping link http://pip.openplans.org#using-pip-with-virtualenv (from http://pip.openplans.org); not a file
+    Skipping link http://pip.openplans.org#using-pip-with-virtualenvwrapper (from http://pip.openplans.org); not a file
+    Skipping link http://www.doughellmann.com/projects/virtualenvwrapper/ (from http://pip.openplans.org); not a file
+    Skipping link http://pip.openplans.org#using-pip-with-buildout (from http://pip.openplans.org); not a file
+    Skipping link http://pypi.python.org/pypi/zc.buildout (from http://pip.openplans.org); unknown archive format: .buildout
+    Skipping link http://pypi.python.org/pypi/gp.recipe.pip (from http://pip.openplans.org); unknown archive format: .pip
+    Skipping link http://pip.openplans.org#command-line-completion (from http://pip.openplans.org); not a file
+    Skipping link http://pip.openplans.org#searching-for-packages (from http://pip.openplans.org); not a file
+    Skipping link http://pypi.python.org/pypi (from http://pip.openplans.org); not a file
+    Skipping link http://sphinx.pocoo.org/ (from http://pip.openplans.org); not a file
+  Analyzing links from page http://pip.openplans.org
+    Skipping link http://pip.openplans.org/_static/nature.css (from http://pip.openplans.org); unknown archive format: .css
+    Skipping link http://pip.openplans.org/_static/pygments.css (from http://pip.openplans.org); unknown archive format: .css
+    Skipping link http://pip.openplans.org (from http://pip.openplans.org); not a file
+    Skipping link http://pip.openplans.org/news.html (from http://pip.openplans.org); unknown archive format: .html
+    Skipping link http://pip.openplans.org#pip (from http://pip.openplans.org); not a file
+    Skipping link http://pypi.python.org/pypi/pip (from http://pip.openplans.org); not a file
+    Skipping link http://bitbucket.org/ianb/pip/ (from http://pip.openplans.org); not a file
+    Skipping link http://pip.openplans.org/requirement-format.html (from http://pip.openplans.org); unknown archive format: .html
+    Skipping link http://pip.openplans.org/configuration.html (from http://pip.openplans.org); unknown archive format: .html
+    Skipping link http://pip.openplans.org/license.html (from http://pip.openplans.org); unknown archive format: .html
+    Skipping link http://pip.openplans.org#introduction (from http://pip.openplans.org); not a file
+    Skipping link http://peak.telecommunity.com/DevCenter/EasyInstall (from http://pip.openplans.org); not a file
+    Skipping link http://pypi.python.org/pypi/virtualenv (from http://pip.openplans.org); not a file
+    Skipping link http://pip.openplans.org#community (from http://pip.openplans.org); not a file
+    Skipping link http://bitbucket.org/ianb/pip/issues/ (from http://pip.openplans.org); not a file
+    Skipping link http://groups.google.com/group/python-virtualenv?hl=en (from http://pip.openplans.org); not a file
+    Skipping link http://pip.openplans.org#differences-from-easy-install (from http://pip.openplans.org); not a file
+    Skipping link http://pip.openplans.org#uninstall (from http://pip.openplans.org); not a file
+    Skipping link http://pip.openplans.org#requirements-files (from http://pip.openplans.org); not a file
+    Skipping link http://pip.openplans.org#freezing-requirements (from http://pip.openplans.org); not a file
+    Skipping link http://pip.openplans.org#bundles (from http://pip.openplans.org); not a file
+    Skipping link http://pip.openplans.org#requirements-file (from http://pip.openplans.org); not a file
+    Skipping link http://pip.openplans.org#using-pip-with-virtualenv (from http://pip.openplans.org); not a file
+    Skipping link http://pip.openplans.org#using-pip-with-virtualenvwrapper (from http://pip.openplans.org); not a file
+    Skipping link http://www.doughellmann.com/projects/virtualenvwrapper/ (from http://pip.openplans.org); not a file
+    Skipping link http://pip.openplans.org#using-pip-with-buildout (from http://pip.openplans.org); not a file
+    Skipping link http://pypi.python.org/pypi/zc.buildout (from http://pip.openplans.org); unknown archive format: .buildout
+    Skipping link http://pypi.python.org/pypi/gp.recipe.pip (from http://pip.openplans.org); unknown archive format: .pip
+    Skipping link http://pip.openplans.org#command-line-completion (from http://pip.openplans.org); not a file
+    Skipping link http://pip.openplans.org#searching-for-packages (from http://pip.openplans.org); not a file
+    Skipping link http://pypi.python.org/pypi (from http://pip.openplans.org); not a file
+    Skipping link http://sphinx.pocoo.org/ (from http://pip.openplans.org); not a file
+  Analyzing links from page http://pip.openplans.org
+    Skipping link http://pip.openplans.org/_static/nature.css (from http://pip.openplans.org); unknown archive format: .css
+    Skipping link http://pip.openplans.org/_static/pygments.css (from http://pip.openplans.org); unknown archive format: .css
+    Skipping link http://pip.openplans.org (from http://pip.openplans.org); not a file
+    Skipping link http://pip.openplans.org/news.html (from http://pip.openplans.org); unknown archive format: .html
+    Skipping link http://pip.openplans.org#pip (from http://pip.openplans.org); not a file
+    Skipping link http://pypi.python.org/pypi/pip (from http://pip.openplans.org); not a file
+    Skipping link http://bitbucket.org/ianb/pip/ (from http://pip.openplans.org); not a file
+    Skipping link http://pip.openplans.org/requirement-format.html (from http://pip.openplans.org); unknown archive format: .html
+    Skipping link http://pip.openplans.org/configuration.html (from http://pip.openplans.org); unknown archive format: .html
+    Skipping link http://pip.openplans.org/license.html (from http://pip.openplans.org); unknown archive format: .html
+    Skipping link http://pip.openplans.org#introduction (from http://pip.openplans.org); not a file
+    Skipping link http://peak.telecommunity.com/DevCenter/EasyInstall (from http://pip.openplans.org); not a file
+    Skipping link http://pypi.python.org/pypi/virtualenv (from http://pip.openplans.org); not a file
+    Skipping link http://pip.openplans.org#community (from http://pip.openplans.org); not a file
+    Skipping link http://bitbucket.org/ianb/pip/issues/ (from http://pip.openplans.org); not a file
+    Skipping link http://groups.google.com/group/python-virtualenv?hl=en (from http://pip.openplans.org); not a file
+    Skipping link http://pip.openplans.org#differences-from-easy-install (from http://pip.openplans.org); not a file
+    Skipping link http://pip.openplans.org#uninstall (from http://pip.openplans.org); not a file
+    Skipping link http://pip.openplans.org#requirements-files (from http://pip.openplans.org); not a file
+    Skipping link http://pip.openplans.org#freezing-requirements (from http://pip.openplans.org); not a file
+    Skipping link http://pip.openplans.org#bundles (from http://pip.openplans.org); not a file
+    Skipping link http://pip.openplans.org#requirements-file (from http://pip.openplans.org); not a file
+    Skipping link http://pip.openplans.org#using-pip-with-virtualenv (from http://pip.openplans.org); not a file
+    Skipping link http://pip.openplans.org#using-pip-with-virtualenvwrapper (from http://pip.openplans.org); not a file
+    Skipping link http://www.doughellmann.com/projects/virtualenvwrapper/ (from http://pip.openplans.org); not a file
+    Skipping link http://pip.openplans.org#using-pip-with-buildout (from http://pip.openplans.org); not a file
+    Skipping link http://pypi.python.org/pypi/zc.buildout (from http://pip.openplans.org); unknown archive format: .buildout
+    Skipping link http://pypi.python.org/pypi/gp.recipe.pip (from http://pip.openplans.org); unknown archive format: .pip
+    Skipping link http://pip.openplans.org#command-line-completion (from http://pip.openplans.org); not a file
+    Skipping link http://pip.openplans.org#searching-for-packages (from http://pip.openplans.org); not a file
+    Skipping link http://pypi.python.org/pypi (from http://pip.openplans.org); not a file
+    Skipping link http://sphinx.pocoo.org/ (from http://pip.openplans.org); not a file
+  Analyzing links from page http://pip.openplans.org
+    Skipping link http://pip.openplans.org/_static/nature.css (from http://pip.openplans.org); unknown archive format: .css
+    Skipping link http://pip.openplans.org/_static/pygments.css (from http://pip.openplans.org); unknown archive format: .css
+    Skipping link http://pip.openplans.org (from http://pip.openplans.org); not a file
+    Skipping link http://pip.openplans.org/news.html (from http://pip.openplans.org); unknown archive format: .html
+    Skipping link http://pip.openplans.org#pip (from http://pip.openplans.org); not a file
+    Skipping link http://pypi.python.org/pypi/pip (from http://pip.openplans.org); not a file
+    Skipping link http://bitbucket.org/ianb/pip/ (from http://pip.openplans.org); not a file
+    Skipping link http://pip.openplans.org/requirement-format.html (from http://pip.openplans.org); unknown archive format: .html
+    Skipping link http://pip.openplans.org/configuration.html (from http://pip.openplans.org); unknown archive format: .html
+    Skipping link http://pip.openplans.org/license.html (from http://pip.openplans.org); unknown archive format: .html
+    Skipping link http://pip.openplans.org#introduction (from http://pip.openplans.org); not a file
+    Skipping link http://peak.telecommunity.com/DevCenter/EasyInstall (from http://pip.openplans.org); not a file
+    Skipping link http://pypi.python.org/pypi/virtualenv (from http://pip.openplans.org); not a file
+    Skipping link http://pip.openplans.org#community (from http://pip.openplans.org); not a file
+    Skipping link http://bitbucket.org/ianb/pip/issues/ (from http://pip.openplans.org); not a file
+    Skipping link http://groups.google.com/group/python-virtualenv?hl=en (from http://pip.openplans.org); not a file
+    Skipping link http://pip.openplans.org#differences-from-easy-install (from http://pip.openplans.org); not a file
+    Skipping link http://pip.openplans.org#uninstall (from http://pip.openplans.org); not a file
+    Skipping link http://pip.openplans.org#requirements-files (from http://pip.openplans.org); not a file
+    Skipping link http://pip.openplans.org#freezing-requirements (from http://pip.openplans.org); not a file
+    Skipping link http://pip.openplans.org#bundles (from http://pip.openplans.org); not a file
+    Skipping link http://pip.openplans.org#requirements-file (from http://pip.openplans.org); not a file
+    Skipping link http://pip.openplans.org#using-pip-with-virtualenv (from http://pip.openplans.org); not a file
+    Skipping link http://pip.openplans.org#using-pip-with-virtualenvwrapper (from http://pip.openplans.org); not a file
+    Skipping link http://www.doughellmann.com/projects/virtualenvwrapper/ (from http://pip.openplans.org); not a file
+    Skipping link http://pip.openplans.org#using-pip-with-buildout (from http://pip.openplans.org); not a file
+    Skipping link http://pypi.python.org/pypi/zc.buildout (from http://pip.openplans.org); unknown archive format: .buildout
+    Skipping link http://pypi.python.org/pypi/gp.recipe.pip (from http://pip.openplans.org); unknown archive format: .pip
+    Skipping link http://pip.openplans.org#command-line-completion (from http://pip.openplans.org); not a file
+    Skipping link http://pip.openplans.org#searching-for-packages (from http://pip.openplans.org); not a file
+    Skipping link http://pypi.python.org/pypi (from http://pip.openplans.org); not a file
+    Skipping link http://sphinx.pocoo.org/ (from http://pip.openplans.org); not a file
+  Analyzing links from page http://pip.openplans.org
+    Skipping link http://pip.openplans.org/_static/nature.css (from http://pip.openplans.org); unknown archive format: .css
+    Skipping link http://pip.openplans.org/_static/pygments.css (from http://pip.openplans.org); unknown archive format: .css
+    Skipping link http://pip.openplans.org (from http://pip.openplans.org); not a file
+    Skipping link http://pip.openplans.org/news.html (from http://pip.openplans.org); unknown archive format: .html
+    Skipping link http://pip.openplans.org#pip (from http://pip.openplans.org); not a file
+    Skipping link http://pypi.python.org/pypi/pip (from http://pip.openplans.org); not a file
+    Skipping link http://bitbucket.org/ianb/pip/ (from http://pip.openplans.org); not a file
+    Skipping link http://pip.openplans.org/requirement-format.html (from http://pip.openplans.org); unknown archive format: .html
+    Skipping link http://pip.openplans.org/configuration.html (from http://pip.openplans.org); unknown archive format: .html
+    Skipping link http://pip.openplans.org/license.html (from http://pip.openplans.org); unknown archive format: .html
+    Skipping link http://pip.openplans.org#introduction (from http://pip.openplans.org); not a file
+    Skipping link http://peak.telecommunity.com/DevCenter/EasyInstall (from http://pip.openplans.org); not a file
+    Skipping link http://pypi.python.org/pypi/virtualenv (from http://pip.openplans.org); not a file
+    Skipping link http://pip.openplans.org#community (from http://pip.openplans.org); not a file
+    Skipping link http://bitbucket.org/ianb/pip/issues/ (from http://pip.openplans.org); not a file
+    Skipping link http://groups.google.com/group/python-virtualenv?hl=en (from http://pip.openplans.org); not a file
+    Skipping link http://pip.openplans.org#differences-from-easy-install (from http://pip.openplans.org); not a file
+    Skipping link http://pip.openplans.org#uninstall (from http://pip.openplans.org); not a file
+    Skipping link http://pip.openplans.org#requirements-files (from http://pip.openplans.org); not a file
+    Skipping link http://pip.openplans.org#freezing-requirements (from http://pip.openplans.org); not a file
+    Skipping link http://pip.openplans.org#bundles (from http://pip.openplans.org); not a file
+    Skipping link http://pip.openplans.org#requirements-file (from http://pip.openplans.org); not a file
+    Skipping link http://pip.openplans.org#using-pip-with-virtualenv (from http://pip.openplans.org); not a file
+    Skipping link http://pip.openplans.org#using-pip-with-virtualenvwrapper (from http://pip.openplans.org); not a file
+    Skipping link http://www.doughellmann.com/projects/virtualenvwrapper/ (from http://pip.openplans.org); not a file
+    Skipping link http://pip.openplans.org#using-pip-with-buildout (from http://pip.openplans.org); not a file
+    Skipping link http://pypi.python.org/pypi/zc.buildout (from http://pip.openplans.org); unknown archive format: .buildout
+    Skipping link http://pypi.python.org/pypi/gp.recipe.pip (from http://pip.openplans.org); unknown archive format: .pip
+    Skipping link http://pip.openplans.org#command-line-completion (from http://pip.openplans.org); not a file
+    Skipping link http://pip.openplans.org#searching-for-packages (from http://pip.openplans.org); not a file
+    Skipping link http://pypi.python.org/pypi (from http://pip.openplans.org); not a file
+    Skipping link http://sphinx.pocoo.org/ (from http://pip.openplans.org); not a file
+  Analyzing links from page http://pip.openplans.org
+    Skipping link http://pip.openplans.org/_static/nature.css (from http://pip.openplans.org); unknown archive format: .css
+    Skipping link http://pip.openplans.org/_static/pygments.css (from http://pip.openplans.org); unknown archive format: .css
+    Skipping link http://pip.openplans.org (from http://pip.openplans.org); not a file
+    Skipping link http://pip.openplans.org/news.html (from http://pip.openplans.org); unknown archive format: .html
+    Skipping link http://pip.openplans.org#pip (from http://pip.openplans.org); not a file
+    Skipping link http://pypi.python.org/pypi/pip (from http://pip.openplans.org); not a file
+    Skipping link http://bitbucket.org/ianb/pip/ (from http://pip.openplans.org); not a file
+    Skipping link http://pip.openplans.org/requirement-format.html (from http://pip.openplans.org); unknown archive format: .html
+    Skipping link http://pip.openplans.org/configuration.html (from http://pip.openplans.org); unknown archive format: .html
+    Skipping link http://pip.openplans.org/license.html (from http://pip.openplans.org); unknown archive format: .html
+    Skipping link http://pip.openplans.org#introduction (from http://pip.openplans.org); not a file
+    Skipping link http://peak.telecommunity.com/DevCenter/EasyInstall (from http://pip.openplans.org); not a file
+    Skipping link http://pypi.python.org/pypi/virtualenv (from http://pip.openplans.org); not a file
+    Skipping link http://pip.openplans.org#community (from http://pip.openplans.org); not a file
+    Skipping link http://bitbucket.org/ianb/pip/issues/ (from http://pip.openplans.org); not a file
+    Skipping link http://groups.google.com/group/python-virtualenv?hl=en (from http://pip.openplans.org); not a file
+    Skipping link http://pip.openplans.org#differences-from-easy-install (from http://pip.openplans.org); not a file
+    Skipping link http://pip.openplans.org#uninstall (from http://pip.openplans.org); not a file
+    Skipping link http://pip.openplans.org#requirements-files (from http://pip.openplans.org); not a file
+    Skipping link http://pip.openplans.org#freezing-requirements (from http://pip.openplans.org); not a file
+    Skipping link http://pip.openplans.org#bundles (from http://pip.openplans.org); not a file
+    Skipping link http://pip.openplans.org#requirements-file (from http://pip.openplans.org); not a file
+    Skipping link http://pip.openplans.org#using-pip-with-virtualenv (from http://pip.openplans.org); not a file
+    Skipping link http://pip.openplans.org#using-pip-with-virtualenvwrapper (from http://pip.openplans.org); not a file
+    Skipping link http://www.doughellmann.com/projects/virtualenvwrapper/ (from http://pip.openplans.org); not a file
+    Skipping link http://pip.openplans.org#using-pip-with-buildout (from http://pip.openplans.org); not a file
+    Skipping link http://pypi.python.org/pypi/zc.buildout (from http://pip.openplans.org); unknown archive format: .buildout
+    Skipping link http://pypi.python.org/pypi/gp.recipe.pip (from http://pip.openplans.org); unknown archive format: .pip
+    Skipping link http://pip.openplans.org#command-line-completion (from http://pip.openplans.org); not a file
+    Skipping link http://pip.openplans.org#searching-for-packages (from http://pip.openplans.org); not a file
+    Skipping link http://pypi.python.org/pypi (from http://pip.openplans.org); not a file
+    Skipping link http://sphinx.pocoo.org/ (from http://pip.openplans.org); not a file
+  Using version 0.7.1 (newest of versions: 0.7.1, 0.7, 0.6.3, 0.6.2, 0.6.1, 0.6, 0.5.1, 0.5, 0.4, 0.3.1, 0.3, 0.2.1, 0.2, dev)
+  Downloading from URL http://pypi.python.org/packages/source/p/pip/pip-0.7.1.tar.gz#md5=420c83ad67bdcb542f772eb64392cce6 (from http://pypi.python.org/simple/pip/)
+  Running setup.py egg_info for package pip
+    c:\pinax\lib\site-packages\setuptools-0.6c9-py2.6.egg\setuptools\command\sdist.py:4: UserWarning: Module pkg_resources was already imported from c:\pinax\lib\site-packages\setuptools-0.6c9-py2.6.egg\pkg_resources.py, but c:\python26\lib\site-packages is being added to sys.path
+    c:\pinax\lib\site-packages\setuptools-0.6c9-py2.6.egg\setuptools\command\sdist.py:4: UserWarning: Module setuptools was already imported from c:\pinax\lib\site-packages\setuptools-0.6c9-py2.6.egg\setuptools\__init__.py, but c:\python26\lib\site-packages is being added to sys.path
+    c:\pinax\lib\site-packages\setuptools-0.6c9-py2.6.egg\setuptools\command\sdist.py:4: UserWarning: Module site was already imported from c:\pinax\lib\site.pyc, but c:\python26\lib\site-packages is being added to sys.path
+    Traceback (most recent call last):
+      File "<string>", line 13, in <module>
+      File "c:\pinax\build\pip\setup.py", line 49, in <module>
+        **kw)
+      File "C:\Python26\Lib\distutils\core.py", line 113, in setup
+        _setup_distribution = dist = klass(attrs)
+      File "c:\pinax\lib\site-packages\setuptools-0.6c9-py2.6.egg\setuptools\dist.py", line 223, in __init__
+      File "C:\Python26\Lib\distutils\dist.py", line 270, in __init__
+        self.finalize_options()
+      File "c:\pinax\lib\site-packages\setuptools-0.6c9-py2.6.egg\setuptools\dist.py", line 256, in finalize_options
+      File "c:\pinax\lib\site-packages\setuptools-0.6c9-py2.6.egg\pkg_resources.py", line 1918, in load
+        parts = []
+    ImportError: <module 'setuptools.dist' from 'c:\pinax\lib\site-packages\setuptools-0.6c9-py2.6.egg\setuptools\dist.py'> has no 'check_packages' attribute
+    Complete output from command python setup.py egg_info:
+    c:\pinax\lib\site-packages\setuptools-0.6c9-py2.6.egg\setuptools\command\sdist.py:4: UserWarning: Module pkg_resources was already imported from c:\pinax\lib\site-packages\setuptools-0.6c9-py2.6.egg\pkg_resources.py, but c:\python26\lib\site-packages is being added to sys.path
+
+c:\pinax\lib\site-packages\setuptools-0.6c9-py2.6.egg\setuptools\command\sdist.py:4: UserWarning: Module setuptools was already imported from c:\pinax\lib\site-packages\setuptools-0.6c9-py2.6.egg\setuptools\__init__.py, but c:\python26\lib\site-packages is being added to sys.path
+
+c:\pinax\lib\site-packages\setuptools-0.6c9-py2.6.egg\setuptools\command\sdist.py:4: UserWarning: Module site was already imported from c:\pinax\lib\site.pyc, but c:\python26\lib\site-packages is being added to sys.path
+
+Traceback (most recent call last):
+
+  File "<string>", line 13, in <module>
+
+  File "c:\pinax\build\pip\setup.py", line 49, in <module>
+
+    **kw)
+
+  File "C:\Python26\Lib\distutils\core.py", line 113, in setup
+
+    _setup_distribution = dist = klass(attrs)
+
+  File "c:\pinax\lib\site-packages\setuptools-0.6c9-py2.6.egg\setuptools\dist.py", line 223, in __init__
+
+  File "C:\Python26\Lib\distutils\dist.py", line 270, in __init__
+
+    self.finalize_options()
+
+  File "c:\pinax\lib\site-packages\setuptools-0.6c9-py2.6.egg\setuptools\dist.py", line 256, in finalize_options
+
+  File "c:\pinax\lib\site-packages\setuptools-0.6c9-py2.6.egg\pkg_resources.py", line 1918, in load
+
+    parts = []
+
+ImportError: <module 'setuptools.dist' from 'c:\pinax\lib\site-packages\setuptools-0.6c9-py2.6.egg\setuptools\dist.py'> has no 'check_packages' attribute
+
+----------------------------------------
+Command python setup.py egg_info failed with error code 1
+Exception information:
+Traceback (most recent call last):
+  File "c:\pinax\lib\site-packages\pip-0.4.1devdev-py2.6.egg\pip.py", line 288, in main
+    self.run(options, args)
+  File "c:\pinax\lib\site-packages\pip-0.4.1devdev-py2.6.egg\pip.py", line 463, in run
+    force_root_egg_info=self.bundle, only_download=self.download)
+  File "c:\pinax\lib\site-packages\pip-0.4.1devdev-py2.6.egg\pip.py", line 1974, in install_files
+    req_to_install.run_egg_info()
+  File "c:\pinax\lib\site-packages\pip-0.4.1devdev-py2.6.egg\pip.py", line 1496, in run_egg_info
+    command_desc='python setup.py egg_info')
+  File "c:\pinax\lib\site-packages\pip-0.4.1devdev-py2.6.egg\pip.py", line 3852, in call_subprocess
+    % (command_desc, proc.returncode))
+InstallationError: Command python setup.py egg_info failed with error code 1
+------------------------------------------------------------
+C:\Documents and Settings\wind\My Documents\Downloads\Compressed\mysite-env\Scripts\pip-script.py run on 05/01/10 02:48:14
+Exception:
+Traceback (most recent call last):
+  File "C:\Documents and Settings\wind\My Documents\Downloads\Compressed\mysite-env\lib\site-packages\pip-0.6.3-py2.6.egg\pip\basecommand.py", line 115, in main
+    self.run(options, args)
+  File "C:\Documents and Settings\wind\My Documents\Downloads\Compressed\mysite-env\lib\site-packages\pip-0.6.3-py2.6.egg\pip\commands\install.py", line 153, in run
+    for req in parse_requirements(filename, finder=finder, options=options):
+  File "C:\Documents and Settings\wind\My Documents\Downloads\Compressed\mysite-env\lib\site-packages\pip-0.6.3-py2.6.egg\pip\req.py", line 1274, in parse_requirements
+    filename, content = get_file_content(filename, comes_from=comes_from)
+  File "C:\Documents and Settings\wind\My Documents\Downloads\Compressed\mysite-env\lib\site-packages\pip-0.6.3-py2.6.egg\pip\util.py", line 300, in get_file_content
+    f = open(url)
+IOError: [Errno 2] No such file or directory: 'pinax/requirements/external_apps.txt'
