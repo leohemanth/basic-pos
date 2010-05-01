@@ -8,17 +8,16 @@ class PurchaseInvoiceItemadmin(admin.ModelAdmin):
 class SaleInvoiceadmin(admin.ModelAdmin):
     list_display = ('customer','datetime')
     search_fields = ('customer','datetime')
-	
+
 class ItemsInline(admin.TabularInline):
-	model = PurchaseInvoiceItem
+    model = PurchaseInvoiceItem
 
 class PurchaseInvoiceadmin(admin.ModelAdmin):
-	inlines = [ItemsInline,]
+    inlines = [ItemsInline,]
 
 
 admin.site.register(PurchaseInvoiceItem,PurchaseInvoiceItemadmin)
 admin.site.register(PurchaseInvoice,PurchaseInvoiceadmin)
-admin.site.register(PurchaseInvoice)
 admin.site.register(SaleInvoice,SaleInvoiceadmin)
 admin.site.register(Product)
 admin.site.register(ProductPrice)
