@@ -151,7 +151,12 @@ INSTALLED_APPS = (
     'django_generic_flatblocks.contrib.gblocks',
     'django.contrib.markup',
 
-    'pos',
+    'purchase',
+    'product',
+    'company',
+    'customer',
+    'sale',
+
 )
 
 FIXTURE_DIRS = [
